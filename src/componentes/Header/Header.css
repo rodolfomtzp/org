@@ -1,0 +1,11 @@
+.header {
+    background-color: #6278F7;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.header img {
+    max-width: 100%;
+    
+}
